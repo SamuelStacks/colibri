@@ -1,0 +1,5 @@
+# Regenerable intermediates (large). Rebuild with src/ingest_*.py + src/clean_intraday.py
+data/*.pkl
+data/*.parquet
+data/daily_panel.csv
+data/market_daily.csv
