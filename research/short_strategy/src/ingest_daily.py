@@ -16,6 +16,11 @@ def main():
         for blk in j["result"]:
             sym = blk.get("symbol")
             bars = blk.get("result") or []
+            # Daily bars carry an empty trading_session; intraday bars carry
+            # "RTH". Without this filter the intraday dumps in the same
+            # directory are ingested as daily rows (78 rows per session, all
+            # sharing one date), silently corrupting the panel.
+            bars = [b for b in bars if not b.get("trading_session")]
             if not sym or not bars:
                 continue
             # keep the longest series if a symbol appears in several dumps

@@ -1,0 +1,633 @@
+[
+{
+"end": "2024-10-14",
+"end_ms": 1728946800000,
+"syms": [
+"CELH"
+]
+},
+{
+"end": "2024-11-04",
+"end_ms": 1730761200000,
+"syms": [
+"BTSG",
+"CVNA",
+"DLR",
+"ETR",
+"FCEL",
+"GLUE",
+"NVCR",
+"RBLX",
+"SXC",
+"VFC"
+]
+},
+{
+"end": "2024-11-25",
+"end_ms": 1732575600000,
+"syms": [
+"AI",
+"APP",
+"AVPT",
+"BBIO",
+"BBWI",
+"CLF",
+"FCEL",
+"FHN",
+"FNB",
+"GAP",
+"GEO",
+"KMT",
+"LYFT",
+"ONB",
+"PL",
+"PLTR",
+"QDEL",
+"QXO",
+"RDW",
+"RIVN"
+]
+},
+{
+"end": "2024-11-25",
+"end_ms": 1732575600000,
+"syms": [
+"SE",
+"SGHC",
+"SHOP",
+"SNOW",
+"TOST",
+"VTRS",
+"WFC",
+"WTTR",
+"Z"
+]
+},
+{
+"end": "2024-12-17",
+"end_ms": 1734476400000,
+"syms": [
+"AAL",
+"ASAN",
+"AVGO",
+"DOCU",
+"LULU",
+"MRVL",
+"NVCR",
+"PL",
+"PUMP",
+"TEVA"
+]
+},
+{
+"end": "2025-01-10",
+"end_ms": 1736550000000,
+"syms": [
+"CEG",
+"NVAX",
+"RIVN",
+"U"
+]
+},
+{
+"end": "2025-02-03",
+"end_ms": 1738623600000,
+"syms": [
+"ARM",
+"BBIO",
+"BTSG",
+"COMP",
+"GWRE",
+"PL",
+"RDW",
+"SGHC",
+"TAL",
+"VIAV"
+]
+},
+{
+"end": "2025-02-25",
+"end_ms": 1740524400000,
+"syms": [
+"ABNB",
+"AMPL",
+"APP",
+"CELH",
+"CLF",
+"COMP",
+"CVS",
+"DKNG",
+"LION",
+"LSCC",
+"MAT",
+"OGN",
+"ORIC",
+"OSCR",
+"PINS",
+"PLTR",
+"SMCI",
+"U"
+]
+},
+{
+"end": "2025-03-18",
+"end_ms": 1742338800000,
+"syms": [
+"AES",
+"DOCU",
+"GAP",
+"LUV",
+"MLYS",
+"OKTA",
+"PD",
+"PGNY",
+"PRGO",
+"TGTX",
+"USAR"
+]
+},
+{
+"end": "2025-04-08",
+"end_ms": 1744153200000,
+"syms": [
+"GME",
+"LEVI",
+"RKT",
+"UMC",
+"USAR"
+]
+},
+{
+"end": "2025-04-30",
+"end_ms": 1746054000000,
+"syms": [
+"ALB",
+"BULL",
+"CPRI",
+"HCSG",
+"ON",
+"SMMT",
+"USAR"
+]
+},
+{
+"end": "2025-05-21",
+"end_ms": 1747868400000,
+"syms": [
+"AMPL",
+"AS",
+"BCRX",
+"BTSG",
+"ELAN",
+"FLNC",
+"LION",
+"LYFT",
+"NRG",
+"NVAX",
+"OSCR",
+"QDEL",
+"SMCI",
+"TOST",
+"TTD"
+]
+},
+{
+"end": "2025-06-12",
+"end_ms": 1749769200000,
+"syms": [
+"AI",
+"CLF",
+"FCEL",
+"GWRE",
+"ORIC",
+"PATH",
+"PL",
+"RAMP",
+"RDW",
+"U",
+"UEC",
+"USAR"
+]
+},
+{
+"end": "2025-07-07",
+"end_ms": 1751929200000,
+"syms": [
+"FLNC",
+"NKE",
+"OSCR",
+"PL"
+]
+},
+{
+"end": "2025-07-28",
+"end_ms": 1753743600000,
+"syms": [
+"AES",
+"BULL",
+"HCSG",
+"IQV",
+"KSS",
+"PD",
+"S",
+"U",
+"USAR"
+]
+},
+{
+"end": "2025-08-18",
+"end_ms": 1755558000000,
+"syms": [
+"AEO",
+"AMPL",
+"APP",
+"CAI",
+"CELH",
+"CHRW",
+"CPRI",
+"CVNA",
+"EBAY",
+"INDV",
+"KURA",
+"KVYO",
+"LSCC",
+"NU",
+"NVAX",
+"RBLX",
+"SE",
+"SHOP",
+"SOFI",
+"SUPN"
+]
+},
+{
+"end": "2025-08-18",
+"end_ms": 1755558000000,
+"syms": [
+"VFC",
+"VIAV"
+]
+},
+{
+"end": "2025-09-09",
+"end_ms": 1757458800000,
+"syms": [
+"AEO",
+"AVGO",
+"CYTK",
+"FCEL",
+"GWRE",
+"IOT",
+"KSS",
+"M",
+"MLYS",
+"PL",
+"SNOW"
+]
+},
+{
+"end": "2025-09-30",
+"end_ms": 1759273200000,
+"syms": [
+"FCEL",
+"GLUE",
+"INTC",
+"LION",
+"LYFT",
+"ORCL",
+"PATH",
+"RMBS",
+"WBD"
+]
+},
+{
+"end": "2025-10-21",
+"end_ms": 1761087600000,
+"syms": [
+"ACI",
+"AES",
+"ALM",
+"AMD",
+"FIG",
+"GM",
+"JBHT",
+"PATH",
+"POWI",
+"USAR"
+]
+},
+{
+"end": "2025-11-11",
+"end_ms": 1762902000000,
+"syms": [
+"BBIO",
+"CCJ",
+"CHRW",
+"FCEL",
+"FIGS",
+"INDV",
+"KMT",
+"KVUE",
+"MIR",
+"MRNA",
+"PUMP",
+"QCOM",
+"RIVN",
+"SHOO",
+"SWKS",
+"TEVA",
+"U",
+"VIAV"
+]
+},
+{
+"end": "2025-12-03",
+"end_ms": 1764802800000,
+"syms": [
+"AEO",
+"KSS",
+"ONON",
+"OSCR",
+"ZM"
+]
+},
+{
+"end": "2025-12-24",
+"end_ms": 1766617200000,
+"syms": [
+"BMRN",
+"FCEL",
+"GLUE",
+"INFY",
+"IOT",
+"PATH",
+"PL",
+"RDW",
+"VSXY"
+]
+},
+{
+"end": "2026-01-16",
+"end_ms": 1768604400000,
+"syms": [
+"COMP",
+"GLUE",
+"ORIC",
+"QXO",
+"RARE",
+"TGTX"
+]
+},
+{
+"end": "2026-02-09",
+"end_ms": 1770678000000,
+"syms": [
+"ALM",
+"GLW",
+"LUV",
+"NVAX",
+"PURR",
+"RDW",
+"RMBS",
+"ROIV",
+"SMCI",
+"TAL",
+"USAR",
+"VIAV"
+]
+},
+{
+"end": "2026-03-03",
+"end_ms": 1772578800000,
+"syms": [
+"BWA",
+"CELH",
+"CSTM",
+"DELL",
+"FIGS",
+"HCSG",
+"NVAX",
+"NVCR",
+"ORIC",
+"PENN",
+"PRMB",
+"PSKY",
+"RCUS",
+"RIVN",
+"VG",
+"VIAV",
+"WTTR"
+]
+},
+{
+"end": "2026-03-24",
+"end_ms": 1774393200000,
+"syms": [
+"BCRX",
+"IOT",
+"MRVL",
+"PL",
+"TTD",
+"VET",
+"XENE"
+]
+},
+{
+"end": "2026-04-15",
+"end_ms": 1776294000000,
+"syms": [
+"ARM",
+"LEVI",
+"OGN",
+"ORIC",
+"U"
+]
+},
+{
+"end": "2026-05-06",
+"end_ms": 1778108400000,
+"syms": [
+"ALB",
+"CYTK",
+"DOC",
+"FCEL",
+"FLEX",
+"GEO",
+"GLW",
+"HCSG",
+"INDV",
+"KMT",
+"NVAX",
+"NVCR",
+"OGN",
+"PENN",
+"PINS",
+"QCOM",
+"RCUS",
+"SMCI",
+"SMMT",
+"TGTX"
+]
+},
+{
+"end": "2026-05-06",
+"end_ms": 1778108400000,
+"syms": [
+"TXN",
+"USAR",
+"VIAV"
+]
+},
+{
+"end": "2026-05-28",
+"end_ms": 1780009200000,
+"syms": [
+"BBWI",
+"BBY",
+"CSCO",
+"DBX",
+"F",
+"FIG",
+"FLNC",
+"HPQ",
+"KSS",
+"KURA",
+"MNST",
+"MRNA",
+"NVAX",
+"PGNY",
+"POWI",
+"RAMP",
+"SE",
+"SNOW",
+"WSE"
+]
+},
+{
+"end": "2026-06-18",
+"end_ms": 1781823600000,
+"syms": [
+"DELL",
+"FLNC",
+"FPS",
+"HPE",
+"LION",
+"MRVL",
+"OKTA",
+"PD",
+"PURR",
+"VSXY"
+]
+},
+{
+"end": "2026-07-13",
+"end_ms": 1783983600000,
+"syms": [
+"AMPL",
+"BBIO",
+"CMCSA",
+"QDEL"
+]
+},
+{
+"end": "2026-08-03",
+"end_ms": 1785798000000,
+"syms": [
+"AMZN",
+"APLD",
+"AVTR",
+"BAX",
+"CIFR",
+"CLF",
+"CLSK",
+"CNH",
+"CRCL",
+"CRWV",
+"HUT",
+"IQV",
+"MSFT",
+"NVCR",
+"PYPL",
+"QBTS",
+"RIOT",
+"SMCI",
+"SNDK",
+"SUPN"
+]
+},
+{
+"end": "2026-08-03",
+"end_ms": 1785798000000,
+"syms": [
+"TAL"
+]
+},
+{
+"end": "2026-08-24",
+"end_ms": 1787612400000,
+"syms": [
+"ABNB",
+"ALAB",
+"AMKR",
+"APLD",
+"BTDR",
+"BULL",
+"CELH",
+"COHR",
+"CRDO",
+"CRWV",
+"DT",
+"EL",
+"FIGS",
+"GLXY",
+"LITE",
+"MARA",
+"MRNA",
+"MSTR",
+"NVTS",
+"ORIC"
+]
+},
+{
+"end": "2026-08-24",
+"end_ms": 1787612400000,
+"syms": [
+"PLTR",
+"PURR",
+"QBTS",
+"RGTI",
+"RKLB",
+"SHOP",
+"SMCI",
+"SNDK",
+"TEM",
+"U",
+"UUUU",
+"WDAY",
+"WTTR"
+]
+},
+{
+"end": "2026-09-04",
+"end_ms": 1788562800000,
+"syms": [
+"ALAB",
+"BZ",
+"CIFR",
+"CRCL",
+"CRM",
+"DELL",
+"FRVO",
+"GAP",
+"GTLB",
+"HOOD",
+"HUT",
+"IOT",
+"MARA",
+"MSTR",
+"OKTA",
+"RIOT",
+"SNOW"
+]
+}
+]

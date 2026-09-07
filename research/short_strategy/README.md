@@ -1,3 +1,14 @@
+# Intraday short-strategy research
+
+Two studies live here:
+
+| Study | Verdict |
+|---|---|
+| **Bounce-Fade** (this file) | positive point estimate, not statistically significant |
+| **[EXHAUST-S1](EXHAUST-S1.md)** — VWAP backside continuation short | **rejected**: −0.351R over 2,770 trades, negative in dev and holdout |
+
+---
+
 # Bounce-Fade: an intraday RTH short strategy
 
 A short-biased, intraday-only strategy for US equities. Every position opens and
